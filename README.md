@@ -1,4 +1,4 @@
-# Odin-Recipes
+# The Odin Project - Recipes Website
 
 Hello! My name is Zascu, and this is the first project that I worked on in "The Odin Project" curriculum.
 
