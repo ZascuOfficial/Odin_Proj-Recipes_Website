@@ -7,4 +7,5 @@ My goal is to become a front-end software engineer and UI - UX Designer, so that
 Click this link if you want to check it out for yourself! - https://www.theodinproject.com/
 
 Also check me out on Twitter if you have time and wish to see more updates about my coding journey, since I post there daily.
+
 Link - https://twitter.com/ZascuOfficial
