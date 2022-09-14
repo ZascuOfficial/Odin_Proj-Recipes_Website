@@ -1,11 +1,12 @@
 # The Odin Project - Recipes Website
 
-Hello! My name is Zascu, and this is the first project that I worked on in "The Odin Project" curriculum.
+Welcome to the first project I will be working on as an assignment for the **"The Odin Project"** curriculum.
 
-My goal is to become a front-end software engineer and UI - UX Designer, so that is why I chose this detailed guide.
+This is a recipes website, containing 4 pages in total, in which I first had to use the basics of HTML that I learned during the introductory, and then, if I chose so, style it with CSS. (Which I did.)
 
-Click this link if you want to check it out for yourself! - https://www.theodinproject.com/
+"The Odin Project" curriculum - https://theodinproject.com/
 
-Also check me out on Twitter if you have time and wish to see more updates about my coding journey, since I post there daily.
+My Twitter - https://twitter.com/ZascuOfficial/
 
-Link - https://twitter.com/ZascuOfficial
+
+The website page - https://zascuofficial.github.io/Odin_Proj-Recipes_Website/
