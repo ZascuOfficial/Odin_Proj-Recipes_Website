@@ -1,6 +1,7 @@
 body {
   background-color: #333333;
   color: #FFFFFF;
+  text-align: center;
   font-family: sans-serif;
   width: 50%;
   margin: 0px auto;
@@ -15,7 +16,12 @@ img {
   width: 250px;
 }
 
+ul {
+  padding: 0;
+}
+
 li {
   margin-top: 10px;
   margin-bottom: 10px;
+  list-style: none;
 }
