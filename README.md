@@ -6,6 +6,4 @@ This is a recipes website, containing 4 pages in total, in which I first had to 
 
 "The Odin Project" curriculum - https://theodinproject.com/
 
-My Twitter - https://twitter.com/ZascuOfficial/
-
 The Website Page - https://zascuofficial.github.io/Odin_Proj-Recipes_Website/
